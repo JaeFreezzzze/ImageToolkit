@@ -1,0 +1,12 @@
+{
+  "version": "1.0.1",
+  "status": "released",
+  "user_confirmed_usable": true,
+  "binary_unchanged_from_user_confirmed_version": true,
+  "sha256": "7229a03b4a5e055419e6f3825537317f0473eb6519007531c16a092404559616",
+  "static_analysis": "passed",
+  "base64_round_trip_checks": 3081,
+  "base64_invalid_input_checks": 13,
+  "geometry_checks": "passed",
+  "windows_gui_automation_in_this_environment": false
+}
